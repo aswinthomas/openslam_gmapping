@@ -1,2 +1,1 @@
-This is a fork from gmapping at https://openslam.informatik.uni-freiburg.de/data/svn/gmapping/trunk/
-It includes a few patches that could be pushed upstream if needed
+Forked from https://github.com/ros-perception/openslam_gmapping.git. This is an attempt to make gmapping run independantly as a library.
